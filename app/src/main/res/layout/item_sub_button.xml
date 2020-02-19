@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="48dp"
+    android:layout_height="48dp"
+    android:padding="12dp"
+    tools:background="@drawable/test_drawable"
+    tools:srcCompat="@drawable/ic_android_black_24dp">
+</androidx.appcompat.widget.AppCompatImageView>

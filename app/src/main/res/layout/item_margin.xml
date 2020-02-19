@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- layout_width = width of fab main button -->
+<!-- layout_height = height of fab main button + 10dp -->
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="56dp"
+    android:layout_height="66dp">
+</View>

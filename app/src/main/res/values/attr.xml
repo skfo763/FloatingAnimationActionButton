@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FloatingAnimationActionButton">
+        <attr name="subButtonMenu"/>
+        <attr name="icon" format="reference"/>
+        <attr name="buttonBackgroundColor" format="color"/>
+        <attr name="buttonSize" format="dimension"/>
+        <attr name="iconSize" format="dimension"/>
+        <attr name="subButtonSize" format="dimension"/>
+        <attr name="subButtonColor" format="color"/>
+        <attr name="subButtonIconSize" format="dimension"/>
+        <attr name="subButtonIconMargin" format="dimension"/>
+        <attr name="isOpened" format="boolean"/>
+    </declare-styleable>
+</resources>
