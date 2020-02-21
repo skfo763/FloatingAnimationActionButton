@@ -9,7 +9,7 @@
         <attr name="subButtonSize" format="dimension"/>
         <attr name="subButtonColor" format="color"/>
         <attr name="subButtonIconSize" format="dimension"/>
-        <attr name="subButtonIconMargin" format="dimension"/>
+        <attr name="subButtonMargin" format="dimension"/>
         <attr name="isOpened" format="boolean"/>
     </declare-styleable>
 </resources>
